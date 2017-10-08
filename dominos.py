@@ -11,7 +11,7 @@ import sqlite3
 
 """
 import os
-os.chdir('C:\Users\wildcat\Documents\GitHub\or604pizzaV2')
+os.chdir('C:\Users\wildcat\Documents\GitHub\or604pizza')
 print os.getcwd()
 """
 
